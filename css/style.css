@@ -431,7 +431,8 @@ ol {
 .hero__text span {
 	font-size: 15px;
 	font-weight: 500;
-	color: #13a2b7;
+	color: white;
+	outline: thick;
 	text-transform: uppercase;
 	display: block;
 }
