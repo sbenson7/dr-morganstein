@@ -302,7 +302,7 @@ ol {
 }
 
 .header__logo {
-	padding: 42px 0;
+	padding: 25px 0;
 }
 
 .header__logo a {
@@ -2535,7 +2535,7 @@ ol {
 		display: none;
 	}
 	.header__logo img{
-		width: 200px;
+		width: 40%;
 	}
 	.consultation__text__item {
 		margin-bottom: 40px;
@@ -2811,7 +2811,7 @@ ol {
 
 @media only screen and (max-width: 479px) {
 	.header__logo img{
-		width: 250px;
+		width: 80%;
 	}
 
 	.hero__text h2 {
