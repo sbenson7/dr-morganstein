@@ -2368,6 +2368,9 @@ ol {
 .contact__form form button {
 	width: 100%;
 }
+.address {
+	padding-left: 15px;
+}
 
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 
