@@ -2257,6 +2257,7 @@ ol {
 .contact__widget__text {
 	overflow: hidden;
 	padding-top: 8px;
+	font-size: 12px;
 }
 
 .contact__widget__text h5 {
