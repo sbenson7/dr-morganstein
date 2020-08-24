@@ -2255,9 +2255,19 @@ ol {
 }
 
 .contact__widget__text {
-	overflow: hidden;
 	padding-top: 8px;
-	font-size: 12px;
+
+}
+
+@media only screen and (max-width: 479px) {
+	.contact-email {
+		margin-top: 15px;
+	}
+	.contact-email-address {
+		font-size: 14px;
+	}
+
+
 }
 
 .contact__widget__text h5 {
@@ -2368,9 +2378,6 @@ ol {
 
 .contact__form form button {
 	width: 100%;
-}
-.address {
-	padding-left: 15px;
 }
 
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
